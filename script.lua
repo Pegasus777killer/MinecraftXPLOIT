@@ -3,7 +3,7 @@
 
 function Complier(A0_24)
 end
-gg.toast("By ZineaHUN")
+gg.toast("By PegasuS")
 gg.alert("Always seek the way that is fair to others. The opportunity itself is not a fraud. At that moment you cheat as soon as you are not fair to the other fair players.")
 function START()
 menu = gg.multiChoice({"Speedhack (slow) (Just backwards)ON","Speedhack (slow) (Just backwards)OFF","Speedhack  very fast speed Oo (Just backwards)ON","Speedhack  very fast speed Oo (Just backwards)OFF","Speedhack ON","Speedhack OFF","Server synchronization ON","Server synchronization OFF","Teleport","Maximum distance from character ON","Maximum distance from character OFF","Exit"},nil,"By ZineaHUN")
